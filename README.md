@@ -26,7 +26,7 @@ Ce projet est une application de démonstration utilisant **Node.js** et **Expre
    ```bash
    npm start
    ```
-   L'application sera accessible sur [http://localhost:3000](http://localhost:3000).
+L'application sera accessible sur [http://localhost:3000](http://localhost:3000).
 
 ---
 
